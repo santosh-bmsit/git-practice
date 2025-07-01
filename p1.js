@@ -1,3 +1,3 @@
 let a=10
-let c=20
-console.log(a)
+let b=30
+console.log(a+b)
